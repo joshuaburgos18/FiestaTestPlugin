@@ -1,0 +1,29 @@
+{
+    "name": "FiestaPlugin",
+    "description": "a plugin for fiesta",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.0.4-stable,<4.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Piwik",
+            "email": "",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": []
+}
