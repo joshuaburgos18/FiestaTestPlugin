@@ -1,6 +1,6 @@
 {
     "name": "FiestaPlugin",
-    "description": "a plugin for fiesta",
+    "description": "a fiesta plugin",
     "version": "0.1.0",
     "theme": false,
     "require": {
@@ -8,18 +8,18 @@
     },
     "authors": [
         {
-            "name": "Piwik",
-            "email": "",
-            "homepage": ""
+            "name": "JoshuaBurgos",
+            "email": "mbburgos@up.edu.ph",
+            "homepage": "https://github.com/joshuaburgos18/FiestaTestPlugin"
         }
     ],
     "support": {
-        "email": "",
+        "email": "markjoshuaburgos26@gmail.com",
         "issues": "",
         "forum": "",
         "irc": "",
         "wiki": "",
-        "source": "",
+        "source": "https://github.com/joshuaburgos18/FiestaTestPlugin",
         "docs": "",
         "rss": ""
     },
